@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/3lkp123gr44guf5g/branch/master?svg=true)](https://ci.appveyor.com/project/Antonina/diplom/branch/master)
+
 # **Запуск тестов**
 
 1. склонировать репозиторий `git clone`
